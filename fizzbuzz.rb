@@ -7,6 +7,5 @@ def fizzbuzz(x)
     puts "Buzz"
   else if x5 % 3 == 0
     puts "Fizz"
-  else
   end
 end
