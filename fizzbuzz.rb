@@ -2,10 +2,10 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(x)
   if x % 5 == 0 && x % 3 == 0
-    puts "fizzbuzz"
+    puts "FizzBuzz"
   elseif x % 5 == 0
-    puts "buzz"
+    puts "Buzz"
   elseif x5 % 3 == 0
-    puts "fizz"
+    puts "Fizz"
   end
 end
