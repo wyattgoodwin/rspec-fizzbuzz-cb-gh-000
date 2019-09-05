@@ -3,9 +3,10 @@
 def fizzbuzz(x)
   if x % 5 == 0 && x % 3 == 0
     puts "FizzBuzz"
-  elseif x % 5 == 0
+  else if x % 5 == 0
     puts "Buzz"
-  elseif x5 % 3 == 0
+  else if x5 % 3 == 0
     puts "Fizz"
+  else
   end
 end
